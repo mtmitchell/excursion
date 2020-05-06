@@ -45,3 +45,14 @@ header a {
     color: aquamarine;
     font-size: 16px;
 }
+
+/*Footer Section*/
+
+footer p {
+    text-align: right;
+    color: gray;
+}
+
+footer i {
+    padding-right: 0.5rem;
+}
